@@ -21,7 +21,10 @@ If you find our paper or this resource helpful, please consider cite:
 Thanks!
 
 ## Datasets
-Refer to datasets in the [task_vectors](https://github.com/mlfoundations/task_vectors).
+Refer to dataset processing in the [task_vectors](https://github.com/mlfoundations/task_vectors).
+
+Or you can download the processed data from [Baidu Cloud disk](https://pan.baidu.com/s/1w0Z2UVv3NVmqDhjH8WTOJQ?pwd=kvg6).
+
 
 ## Task Vectors / Checkpoints
 
