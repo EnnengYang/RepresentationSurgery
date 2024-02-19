@@ -56,6 +56,13 @@ AdaMerging + Our Surgery
 python src/main_AdaMerging_with_surgery.py
 ```
 
+
+AdaMerging + Our Surgery (*Online setting, i.e., Batch_size=1; Each sample is only passed once.*)
+```
+python src/main_AdaMerging_with_surgery_online.py
+```
+
+
 ***The logs of our experiments are in 'src/logs/'.***
 
 ## Acknowledgement
