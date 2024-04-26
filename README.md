@@ -66,6 +66,8 @@ python src/main_AdaMerging_with_surgery_online.py
 
 ***The logs of our experiments are in 'src/logs/'.***
 
+*Note: By increasing the rank of the Surgery module (i.e., lines 75 and 76 in the [merging_model.py](https://github.com/EnnengYang/RepresentationSurgery/blob/main/src/merging_model.py)), you can get even better performance.*
+
 ## Acknowledgement
 Our implementation references the code below, thanks to them.
 
