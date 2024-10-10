@@ -66,7 +66,9 @@ python src/main_AdaMerging_with_surgery_online.py
 
 ***The logs of our experiments are in 'src/logs/'.***
 
-*Note: By increasing the rank of the Surgery module (i.e., lines 75 and 76 in the [merging_model.py](https://github.com/EnnengYang/RepresentationSurgery/blob/main/src/merging_model.py)), you can get even better performance.*
+*Note:*
+- *By increasing the rank of the Surgery module (i.e., lines 75 and 76 in the [merging_model.py](https://github.com/EnnengYang/RepresentationSurgery/blob/main/src/merging_model.py)), you can get even better performance.*
+- *Due to machine memory limitations, our implementation reloaded the dataset at each step, which resulted in a significant amount of additional time. If your machine has enough memory, you can load all the data before optimizing the surgery module, which will speed up the training significantly.*
 
 ## Acknowledgement
 Our implementation references the code below, thanks to them.
